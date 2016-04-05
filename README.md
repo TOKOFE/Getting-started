@@ -1,3 +1,2 @@
-# Getting-started
-An overview of front-end development, what / how to prepare for, and more for anyone who is interested in the front-end development especially for beignners.
-
+# Introduction
+A seed project for Angular2 with TypeScript, Node.js and Gulp including Unit tests
